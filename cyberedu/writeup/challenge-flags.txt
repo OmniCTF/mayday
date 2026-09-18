@@ -1,0 +1,4 @@
+## 1. Flag?
+Tip: static
+
+HTA{4564e8b2561845fdbd7985e733b5f744eaf24df9227247d80b0baa224a58bf4b}
